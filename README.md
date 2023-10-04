@@ -42,4 +42,4 @@
 
 * [Pylint](https://www.pylint.org/)
 * [Анализ кода в Python](https://python-scripts.com/code-analysis)
-* [PEP8]([https://python-scripts.com/code-analysis](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
+* [PEP8](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
