@@ -1,0 +1,41 @@
+commit ec656fab4a598d00166c36dff69209d51b2fad3b (HEAD -> main, origin/main, origin/HEAD)
+Author: Saloed <Saloed@bebra.lol>
+Date:   Wed Dec 27 22:13:42 2023 +0300
+
+    mv msf to mff
+
+commit c470275d0e4f45c9a80e5cb313cd82392461d6df
+Author: Saloed <Saloed@bebra.lol>
+Date:   Wed Dec 27 22:10:44 2023 +0300
+
+    del my_first_file
+
+commit 48ba15f5368767214c99af79996e1f8685624c4a
+Author: Saloed <Saloed@bebra.lol>
+Date:   Wed Dec 27 22:07:37 2023 +0300
+
+    change rni
+
+commit c20adf6ccddb6a275ad789b45ef154a3fad20e7e
+Author: Saloed <Saloed@bebra.lol>
+Date:   Wed Dec 27 22:04:34 2023 +0300
+
+    change rti
+
+commit 7f068e7c7713360552eba4270e7113b2d3dd0398
+Author: Saloed <Saloed@bebra.lol>
+Date:   Wed Dec 27 22:00:40 2023 +0300
+
+    create gitignore
+
+commit c820a2133cbba85d2c986d55022814ac1fe563b6
+Author: Saloed <Saloed@bebra.lol>
+Date:   Wed Dec 27 21:43:35 2023 +0300
+
+    create my_second_file
+
+commit 593888fce324bec3000a3bc92cc6cec08e7edcb0
+Author: Saloed <Saloed@bebra.lol>
+Date:   Sat Dec 2 13:11:27 2023 +0300
+
+    first commit
